@@ -51,6 +51,7 @@ public class Ticket {
             }
 
         }
+        System.out.println("Tutar:"+this.totalFare);
     }
     private int calculateFare(int passengerCount) {
         totalFare += company.getFare();
