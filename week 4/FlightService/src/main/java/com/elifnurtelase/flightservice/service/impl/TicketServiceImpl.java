@@ -40,7 +40,7 @@ public class TicketServiceImpl implements TicketService {
                 ticket.setBussiness(isBussiness);
 
                 if(ticket.isBussiness())
-                    ticket.setFare(plane.getFare()*(3/2));
+                    ticket.setFare(plane.getFare()*(2));
                 else
                     ticket.setFare(plane.getFare());
 

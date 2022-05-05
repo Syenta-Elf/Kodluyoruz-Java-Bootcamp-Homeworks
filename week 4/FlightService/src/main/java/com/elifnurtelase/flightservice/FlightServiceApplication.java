@@ -1,10 +1,8 @@
 package com.elifnurtelase.flightservice;
 
 import com.elifnurtelase.flightservice.entity.Pegasus;
-import com.elifnurtelase.flightservice.entity.Plane;
 import com.elifnurtelase.flightservice.entity.THY;
 import com.elifnurtelase.flightservice.repository.PlaneRepository;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,13 +1,8 @@
 package com.elifnurtelase.flightservice.entity;
-
-import com.elifnurtelase.flightservice.repository.PlaneRepository;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
-import org.hibernate.annotations.LazyCollection;
-import org.hibernate.annotations.LazyCollectionOption;
 
 import javax.persistence.*;
-import java.util.List;
 
 @Entity
 @Table(name="PLANES")
