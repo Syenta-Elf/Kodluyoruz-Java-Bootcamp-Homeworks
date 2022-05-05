@@ -1,6 +1,6 @@
 package com.elifnurtelase.flightservice.service.impl;
 
-import com.elifnurtelase.flightservice.entity.dto.TicketDto;
+import com.dto.TicketDto;
 import com.elifnurtelase.flightservice.entity.Passenger;
 import com.elifnurtelase.flightservice.entity.Plane;
 import com.elifnurtelase.flightservice.entity.Ticket;

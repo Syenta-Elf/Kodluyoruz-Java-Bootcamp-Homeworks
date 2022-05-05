@@ -1,6 +1,6 @@
 package com.elifnurtelase.flightservice.api;
 
-import com.elifnurtelase.flightservice.entity.dto.PlaneDto;
+import com.dto.PlaneDto;
 import com.elifnurtelase.flightservice.service.PlaneService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

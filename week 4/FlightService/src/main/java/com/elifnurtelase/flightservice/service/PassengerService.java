@@ -1,8 +1,8 @@
 package com.elifnurtelase.flightservice.service;
 
-import com.elifnurtelase.flightservice.entity.dto.PassengerDto;
-
 import java.util.List;
+
+import com.dto.PassengerDto;
 
 public interface PassengerService {
     PassengerDto savePassenger(PassengerDto passenger);

@@ -1,4 +1,4 @@
-package com.elifnurtelase.flightservice.entity.dto;
+package com.dto;
 
 import lombok.Data;
 
